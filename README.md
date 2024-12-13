@@ -14,6 +14,8 @@ A simple and intuitive task manager web application that allows users to add, ed
 - **Database**: MongoDB with Mongoose for database interaction
 
 ## Preview
+![Task manager interface](public/HomePage.png)
+![Edit Task interface](Public/Editpage.png)
 
 
 ## Setup Instructions
