@@ -15,7 +15,7 @@ A simple and intuitive task manager web application that allows users to add, ed
 
 ## Preview
 ![Task manager interface](public/HomePage.png)
-![Edit Task interface](Public/Edit%20page.png)
+![Edit Task interface](Public/EditPage.png)
 
 
 ## Setup Instructions
